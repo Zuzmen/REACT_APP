@@ -1,0 +1,24 @@
+* {
+  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Bree Serif', serif;
+}
+
+body {
+  background-color: black;
+}
+
+h3 {
+  color: green;
+}
+
+.tittle {
+  color: green;
+  font-size: 80px;
+  align-items: baseline;
+}
+
+th {
+  color: yellow;
+  padding-left: 120px;
+  font-size: 30px;
+}
